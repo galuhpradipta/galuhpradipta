@@ -1,7 +1,7 @@
 ## Hi! 👋
 I'm Galuh, Software Engineer from Indonesia.
 
-- 🧭 Systems Developer at [@brankas](https://brankas.com)
+- 🧭 Systems Developer [@brankas](https://brankas.com)
 
 ## Skills
 - 👨‍💻 Go, JavaScript, PHP, Java
