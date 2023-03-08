@@ -10,5 +10,6 @@ I'm Galuh, Software Engineer from Indonesia.
 - GCP, AWS, DigitalOcean, Alibaba Cloud
 
 ## Contact
+- [Blog](https://galuh.dev)
 - [LinkedIn](https://www.linkedin.com/in/galuh-pradipta-007306113/)
 - [Youtube](https://www.youtube.com/@ngegolang)
